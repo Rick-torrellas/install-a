@@ -5,7 +5,7 @@
 
 * scrips:
 	scrips de instalacion/desisntalar
-
+[vinculo](#structure) <br>
 [vinculo](##-coma-semi) <br>
 [vinculo](##Vinculo)
 

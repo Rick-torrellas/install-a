@@ -1,9 +1,0 @@
-#! /usr/bin/bash 
-
-gnome-terminal -- bash ./commands/tilix.sh
-gnome-terminal -- bash ./../scrips/git.sh
-x-special/nautilus-clipboard
-cut
-file:///home/ricardo/taller/install/scrips/program/grome-tweaks.sh
-file:///home/ricardo/taller/install/scrips/program/simplenote.sh
-file:///home/ricardo/taller/install/scrips/program/ulauncher.sh
